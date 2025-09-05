@@ -53,7 +53,7 @@ insert into Customers values
 (10, 'Mary', 'Mary098@gmail.com', '2019-03-05 15:48:27');
 
 
--- Creating data for Orders table (Order ID, Customer ID, Order, Order date, Total) EDIT THISSSS
+-- Creating data for Orders table (Order ID, Customer ID, Order, Order date, Total) 
 insert into Orders values
 (1, 1, 'Brownie', '2024-09-13 07:30:12', 1.00),
 (2, 1, 'Cookie', '2024-09-13 07:30:12', 1.20),
@@ -81,4 +81,5 @@ insert into Orders values
 (24, 4, 'Brownie', '2024-10-02 13:47:16', 1.00),
 (25, 5, 'Tostie', '2022-11-08 06:56:15', 1.80),
 (26, 5, 'Brownie', '2022-11-08 06:56:15', 1.00),
+
 (27, 5, 'Cinnamon bun', '2022-11-08 06:56:15', 2.50);
